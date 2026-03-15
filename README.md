@@ -1,7 +1,7 @@
 # UI-UX-Experiment4
 
 ## Aim:
-To design a wireframe diagram for a generic application (Shopright) using Balsamiq .
+To design a wireframe diagram for a generic application (Shopright) using Balsamiq.
 
 ## Algorithm:
 1. Open Balsamiq Wireframes and create a new project.
@@ -24,5 +24,5 @@ To design a wireframe diagram for a generic application (Shopright) using Balsam
 
 ## Result:
 
-To Design a wireframe diagram for a generic application or website using Balsamiq is completed
+To Design a wireframe diagram for a generic application or website using Balsamiq is completed.
 
