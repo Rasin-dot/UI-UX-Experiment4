@@ -20,6 +20,8 @@ To design a wireframe diagram for a generic application (Shopright) using Balsam
 
 ## Output:
 
+<img width="1320" height="929" alt="img01" src="https://github.com/user-attachments/assets/cdc11e71-187d-43f8-a1b2-53dfa726cc10" />
+<img width="959" height="819" alt="img02" src="https://github.com/user-attachments/assets/8bf6c757-e888-46c9-9259-e4ee619cfa7f" />
 
 
 ## Result:
